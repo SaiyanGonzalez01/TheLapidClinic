@@ -16,5 +16,8 @@ hr {
 img {
   border: solid;
   border-width: thick;
-  border-color: black;
+  border-top-color: #2a2a2a;
+  border-left-color: #201f1f;
+  border-right-color: #141414;
+  border-bottom-color: black;
 }
