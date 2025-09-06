@@ -12,3 +12,8 @@ hr {
   width: 150px;
   color: black;
 }
+
+img {
+  border-width: thick;
+  border-color: black;
+}
