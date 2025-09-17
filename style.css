@@ -21,3 +21,8 @@ img {
   border-right-color: #141414;
   border-bottom-color: black;
 }
+
+@font-face {
+  font-family: 'Minecraft';
+  src: url('assets/font/font.otf');
+}
