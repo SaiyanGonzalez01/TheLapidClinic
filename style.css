@@ -1,4 +1,10 @@
 body {
+  cursor:
+    url("cursor.png") 0 0,
+    auto;
+  cursor:
+    url("cursor_highlight.png") 0 0,
+    pointer;
   image-rendering: pixelated;
   image-rendering: crisp-edges;
   background-image: url('images/background.png');
