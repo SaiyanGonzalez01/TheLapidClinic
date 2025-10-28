@@ -28,6 +28,11 @@ hr {
   border-bottom-color: black;
 }
 
+.logo {
+  width: 50%; 
+  height: 50%;
+}
+
 @font-face {
   font-family: 'Minecraft';
   src: url('fonts/mc.woff');
