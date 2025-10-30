@@ -33,6 +33,18 @@ hr {
   height: 129px;
 }
 
+.oldschool {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  background-image: url('images/background.png');
+  background-repeat: repeat;
+  background-size: auto;
+  color: white;
+  text-align: center;
+  font-family: 'Minecraft';
+
+}
+
 @font-face {
   font-family: 'Minecraft';
   src: url('fonts/mc.woff');
