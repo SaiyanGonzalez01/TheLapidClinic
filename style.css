@@ -62,7 +62,14 @@ a:hover {
   text-align: center;
   font-family: 'Minecraft';
   border: solid;
-  border-width: thick;
+  border-width: thin;
+  border-top-color: #bc9862;
+  border-left-color: #9f844d;
+  border-right-color: #735e39;
+  border-bottom-color: #695433;
+}
+
+.woodbutton:active {
   border-top-color: #bc9862;
   border-left-color: #9f844d;
   border-right-color: #735e39;
