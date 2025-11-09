@@ -62,7 +62,7 @@ a:hover {
   text-align: center;
   font-family: 'Minecraft';
   border: solid;
-  border-width: thin;
+  border-width: 4px;
   border-top-color: #bc9862;
   border-left-color: #9f844d;
   border-right-color: #735e39;
