@@ -70,10 +70,10 @@ a:hover {
 }
 
 .woodbutton:active {
-  border-top-color: #bc9862;
-  border-left-color: #9f844d;
-  border-right-color: #735e39;
-  border-bottom-color: #695433;
+  border-top-color: #695433;
+  border-left-color: #735e39;
+  border-right-color: #9f844d;
+  border-bottom-color: #bc9862;
 }
 
 @font-face {
