@@ -76,6 +76,18 @@ a:hover {
   border-bottom-color: #bc9862;
 }
 
+.menu {
+  width: 320px;
+  background-image: url('images/background2.png');
+  background-repeat: repeat;
+  background-size: auto;
+  background-position: top left;
+  border: 2px solid #555;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.25);
+  padding: 1em 0 2em 0;
+  color: #fff;
+}
+
 @font-face {
   font-family: 'Minecraft';
   src: url('fonts/mc.woff');
