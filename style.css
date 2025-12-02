@@ -81,12 +81,16 @@ article {
 }
 
 .menu {
-  text-align: center;
-  border: solid;
-  border-width: thick;
-  border-color: white;
-  background-color: #000000;
-  width: 500px;
+  margin-top: 2em;
+  width: 320px;
+  background-image: url('images/background2.png');
+  background-repeat: repeat;
+  background-size: auto;
+  background-position: top left;
+  border: 2px solid #555;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.25);
+  padding: 1em 0 2em 0;
+  color: #fff;
 }
 
 @font-face {
