@@ -77,7 +77,7 @@ a:hover {
 }
 
 .menu {
-  align: center;
+  text-align: center;
   border: solid;
   border-width: thick;
   border-color: white;
