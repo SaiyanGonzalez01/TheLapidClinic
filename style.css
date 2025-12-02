@@ -31,6 +31,10 @@ a:hover {
   color: #505e9a; 
 }
 
+article {
+  text-align: center;
+}
+
 .border {
   border: solid;
   border-width: thick;
