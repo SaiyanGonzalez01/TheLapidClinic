@@ -84,9 +84,6 @@ article {
   border: 2px solid #555;
   box-shadow: 0 4px 24px rgba(0,0,0,0.25);
   padding: 1em 0 2em 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .menu2 {
