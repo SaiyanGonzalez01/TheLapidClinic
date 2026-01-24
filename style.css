@@ -99,13 +99,6 @@ article {
   color: #fff;
 }
 
-.reddit {
-  width: 100px;
-  height: 100px;
-  background-image: url('assets/images/reddit.png');
-  background-size: cover
-}
-
 @font-face {
   font-family: 'Minecraft';
   src: url('assets/fonts/mc.woff');
