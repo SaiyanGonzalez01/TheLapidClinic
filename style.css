@@ -99,6 +99,18 @@ article {
   color: #fff;
 }
 
+.reddit {
+  width: 64px;
+  height: 64px;
+  background-image: url('reddit.png'); 
+  background-size: cover; 
+}
+
+.reddit:hover {
+  background-image: url('youtube.png');
+}
+
+
 @font-face {
   font-family: 'Minecraft';
   src: url('assets/fonts/mc.woff');
